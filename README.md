@@ -1,3 +1,6 @@
+![Rogue Designs Logo](https://storage.googleapis.com/stiles-images/RogueLogo-256x158.png)
+**Rogue Designs**
+
 # MEGAcmd - Command Line Interactive and Scriptable Application
 
 MEGAcmd provides non UI access to MEGA services. It intends to offer all the 
